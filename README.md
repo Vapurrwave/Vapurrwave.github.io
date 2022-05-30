@@ -1,7 +1,7 @@
 # Vapurrwave.github.io
 I’m currently experimenting with hosting a static html site on Github, but using the formatting restrictions of the Gemini protocol. 
 
-no CSS, 
+no Javascript (or any other codes which intergrates with html, like CSS), 
 
 no headers, 
 
