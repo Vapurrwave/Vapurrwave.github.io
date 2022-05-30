@@ -1,4 +1,17 @@
 # Vapurrwave.github.io
 I’m currently experimenting with hosting a static html site on Github, but using the formatting restrictions of the Gemini protocol. 
 
-no CSS, no headers, and no bold/italics/etc… emoji/unicode is ok in the text using <ul><li> for bullet points, <h1><h2> and <h3> for headers, <pre> for pre-formatted text, <blockquote> for blocknotes, <a href=“”> for links
+no CSS, 
+no headers, 
+no bold/italic/underline/etc…, 
+no mixing tags in a way that breaks Gemini logic.
+
+emoji/unicode is ok within the text.
+
+bullet points tag, 
+3 levels of headers tags, 
+pre-formatted text tag, 
+blocknotes tag, 
+links tag.
+
+That's it!
