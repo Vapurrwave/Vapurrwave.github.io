@@ -7,18 +7,20 @@ no headers,
 
 no bold/italic/underline/etc…, 
 
-no mixing tags in a way that breaks Gemini logic.
+no mixing tags in a way that breaks Gemini logic,
 
-emoji/unicode is ok within the text.
+no inserting images directly (with the src tag),
 
-bullet points tag, 
+emoji/unicode is ok within the text,
+
+bullet point tags, 
 
 h1, h2, and h3 tags, 
 
-pre-formatted text tag, 
+pre-formatted text tags, 
 
-blocknotes tag, 
+blocknote tags, 
 
-links tag.
+link tags.
 
 That's it!
