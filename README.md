@@ -7,7 +7,7 @@ no headers,
 
 no bold/italic/underline/etc…, 
 
-no mixing tags in a way that breaks Gemini logic,
+no mixing tags in a way that breaks Gemini logic (like mixing a h1/2/3 tag with a link tag),
 
 no inserting images directly (with the src tag),
 
