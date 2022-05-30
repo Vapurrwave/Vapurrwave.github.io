@@ -3,13 +3,13 @@ I’m currently experimenting with hosting a static html site on Github, but usi
 
 no Javascript (or any other codes which intergrates with html, like CSS), 
 
-no headers, 
+no head tags, 
 
-no bold/italic/underline/etc…, 
+no bold/italic/underline/etc… tags, 
 
 no mixing tags in a way that breaks Gemini logic (like mixing a h1/2/3 tag with a link tag),
 
-no inserting images directly (with the src tag),
+no inserting images directly with the src tag,
 
 emoji/unicode is ok within the text,
 
